@@ -24,7 +24,7 @@ SELECT
 product_name || ', ' || IFNULL(product_size,'') || ' (' || IFNULL(product_qty_type,'unit') || ')' as List
 FROM product
 
---Windowed Functions
+----Windowed Functions
 /* 1. Write a query that selects from the customer_purchases table and numbers each customer’s  
 visits to the farmer’s market (labeling each market date with a different number). 
 Each customer’s first visit is labeled 1, second visit is labeled 2, etc. 

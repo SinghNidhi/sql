@@ -184,3 +184,15 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 ```
 Your thoughts...
 ```
+The article raises several important ethical questions:
+Labour
+-People's contributions to the training data that powers the LLMs is unacknowledged, uncompensated and taken without their consent
+Biases
+-LLM data reflects the biases inherent to human beings and often amplifies them
+-Biases can impact decision making in critical situations like hiring, law enforcement etc
+Content moderation and censorship
+-Algorithmic moderation can be overly aggressive in filtering certain types of content while letting others pass, leading to concerns about censorship and suppression of discourse
+-Decisions made by algorithmic systems are opaque, leading to a lack of accountability
+Societal impact of LLMs
+-LLMs are trained on human input, only to eventually end up replacing the humans on whose input they were created. This will lead to massive unemployment
+-AI generated content is often inaccurate and bad actors use it to generate fake news that can be disruptive to societal harmony
